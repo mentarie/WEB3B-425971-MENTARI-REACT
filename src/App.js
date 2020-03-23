@@ -7,27 +7,27 @@ import { Container, Card, Button, CardTitle, CardText, Row, Col} from 'reactstra
 
 const cardData = [
   {
-    nama : "Hanan",
-    job : "Project Manajer",
+    nama : "Mentari ER",
+    job : "UX Analyst",
     color : "primary"
-  },
-  {
-    nama : "Hanafi",
-    job : "Front End",
-    color : "warning"
   },
   {
     nama : "Hanan Hanafi",
     job : "Back End",
+    color : "warning"
+  },
+  {
+    nama : "Yuli Hardina",
+    job : "Frontend End",
     color : "danger"
   },
   {
-    nama : "Bambang",
+    nama : "Winston Wiradi P",
     job : "System Analyst",
     color : "info"
   },
   {
-    nama : "Pamungkas",
+    nama : "Alfarel Zaki",
     job : "UI/UX Designer",
     color : "success"
   },
